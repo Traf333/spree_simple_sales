@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_simple_sales'
   s.version     = '2.3.1'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'add sales for products'
+  s.description = 'Adding and managing sales price for products'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Traf333'
